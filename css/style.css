@@ -62,7 +62,7 @@ body{
 }
 
 .score-block{
-	background: #efefef;
+	background: #dbe9b5;
 	width: 300px;
 	height: 80px;
 	display: flex;
@@ -80,7 +80,7 @@ body{
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background-color: rgb(182, 248, 226);
+	background-color: rgb(219, 240, 233);
 }
 
 
