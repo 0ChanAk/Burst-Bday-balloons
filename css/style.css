@@ -62,7 +62,7 @@ body{
 }
 
 .score-block{
-	background: #dbe9b5;
+	background: rgb(241, 240, 146);
 	width: 300px;
 	height: 80px;
 	display: flex;
