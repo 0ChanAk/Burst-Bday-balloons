@@ -47,7 +47,7 @@ body{
 }
 
 .total-block{
-	background: #fff;
+	background: linear-gradient(to top, rgb(242, 243, 161) 0%, rgb(235, 176, 109) 30%, rgb(240, 149, 149) 100%);
 	padding: 10px 100px 40px;
 	border-radius: 10px;
 	text-align: center;
@@ -62,7 +62,7 @@ body{
 }
 
 .score-block{
-	background: rgb(241, 240, 146);
+	background: rgb(243, 241, 120);
 	width: 300px;
 	height: 80px;
 	display: flex;
@@ -76,11 +76,12 @@ body{
 .start-game-window {
 	width: 100vw;
 	height: 100vh;
+	background: linear-gradient(to top, rgb(247, 248, 161) 0%, rgb(214, 241, 164) 30%, rgb(170, 201, 241) 100%);
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background-color: rgb(219, 240, 233);
+	
 }
 
 
